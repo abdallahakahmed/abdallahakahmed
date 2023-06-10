@@ -1,6 +1,6 @@
   <h1>Blockchain Developer</h1>
   
-  <h3>Code is a low</h3>
+  <h3>Code is a law</h3>
   
 
   <h2>⭐ Welcome to my GitHub repository! ⭐</h2>
