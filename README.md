@@ -7,7 +7,7 @@
   <h3>Projects</h3>
   <p>There's all a lot of project, but it's private. You can call me to let you see it. </p>
 
-  <h2>Skills<h2>
+  <h3>Skills<h3>
   <h5>🔧 Blockchain Development:<h5>
   <ul>
     <li>Ethereum - Solidity</li>
