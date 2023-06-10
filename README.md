@@ -1,13 +1,14 @@
   <h1>Blockchain Developer</h1>
 
-  <h3>⭐ Welcome to my GitHub repository! ⭐</h3>
+  <h2>⭐ Welcome to my GitHub repository! ⭐</h2>
   <p>I am <b>Abdallah Ahmed</b>, a passionate blockchain developer. This repository showcases my work and projects related to blockchain technology. 
     Here, you will find code samples, smart contracts, and other resources that demonstrate my skills and expertise in the field of blockchain development.<p>
 
-  <h3>Projects</h3>
+  <h2>Projects</h2>
   <p>There's all a lot of project, but it's private. You can call me to let you see it. </p>
 
-  <h3>Skills<h3>
+<h2>Skills</h2>
+
   <h5>🔧 Blockchain Development:<h5>
   <ul>
     <li>Ethereum - Solidity</li>
